@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/searchtolive.com.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
-    "time": 1043,
-    "timeDay": 1263,
-    "timeWeek": 1119,
-    "timeMonth": 1043,
-    "timeYear": 1043,
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 1032,
+    "timeDay": 910,
+    "timeWeek": 1124,
+    "timeMonth": 1032,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2026-08-17": 38
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 423,
-    "timeWeek": 518,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "time": 501,
+    "timeDay": 668,
+    "timeWeek": 539,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {}
   }
 ]
